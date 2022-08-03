@@ -45,6 +45,28 @@ apples <- c(6, 7, 8)
 bananas + apples
 bananas - apples
 bananas %*% apples 
+```
+
+### Matrices
+
+```{r}
+#Make a sequence of values from 1 - 10
+
+my_values <- seq(from = 1, to = 10)
+
+my_matrix <- matrix(data = my_values, nrow = 2, ncol = 5, byrow = TRUE)
+my_matrix
+
+#Scalar multiplication
+
+5 * my_matrix
+class(my_matrix)
 
 ```
+
+```{r}
+glimpse(penguins)
+
+```
+
 
