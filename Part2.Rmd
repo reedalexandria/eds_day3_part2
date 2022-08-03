@@ -69,4 +69,4 @@ glimpse(penguins)
 
 ```
 
-
+#Terminal -> pwd -> git status -> git add -A -> git commit -m -> git push
