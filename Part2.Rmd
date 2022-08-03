@@ -1,0 +1,11 @@
+---
+title: "EDS 212 Day 3 - Part 2"
+author: "Alex Reed"
+date: "2022-08-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
